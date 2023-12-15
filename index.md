@@ -12,6 +12,6 @@ Ephos is building the essential infrastructure for quantum technologies. Leverag
 
 # About FUTURE
 
-FUTURE is an EIC Transition 2023 project funded by the European Innovation Council under the European Union's Horizon Europe Framework Programme for Research and Innovation programme (grant agreement No 101136471).
+FUTURE is an EIC Transition 2023 project funded by the European Innovation Council under the European Union's Horizon Europe Framework Programme for Research and Innovation (grant agreement No 101136471).
 
 <img src="assets/img/eic-logo.jpg" alt="EIC" width="30%" height="auto">
