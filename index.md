@@ -6,6 +6,10 @@ layout: default
 
 FUTURE supports Ephos in establishing the world’s most advanced femtosecond laser writing facility for the production of quantum photonic chips. 
 
+# News
+
+* 01/11/2023 FUTURE starts!
+
 # About Ephos
 
 Ephos is building the essential infrastructure for quantum technologies. Leveraging our proprietary femtosecond laser writing manufacturing process, we design and build glass-based photonic quantum chips controlling every aspect of the process, from materials procurement through benchmarking. 
