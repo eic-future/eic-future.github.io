@@ -8,7 +8,7 @@ FUTURE supports Ephos in establishing the world’s most advanced femtosecond la
 
 # News
 
-* 01/11/2023 FUTURE starts!
+ **01/11/2023** — FUTURE starts!
 
 # About Ephos
 
